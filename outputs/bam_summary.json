@@ -1,0 +1,42 @@
+{
+  "file": "sample.bam",
+  "total_reads": 79,
+  "mapped": 79,
+  "unmapped": 0,
+  "paired": 78,
+  "proper_pair": 76,
+  "duplicate": 0,
+  "qcfail": 0,
+  "mapping_quality_mean": 55.03,
+  "mapping_quality_distribution": {
+    "60": 67,
+    "29": 8,
+    "53": 1,
+    "0": 1,
+    "5": 1,
+    "37": 1
+  },
+  "read_length_mean": 101.0,
+  "reference_distribution": {
+    "11": 79
+  },
+  "cigar_operations": {
+    "SOFT_CLIP": 967,
+    "MATCH": 7012,
+    "DEL": 4
+  },
+  "insert_size_mean": 374.14,
+  "insert_size_distribution": {
+    "380": 8,
+    "390": 4,
+    "410": 3,
+    "350": 3,
+    "340": 3,
+    "330": 1,
+    "320": 2,
+    "400": 3,
+    "360": 2,
+    "370": 5,
+    "300": 1
+  }
+}
